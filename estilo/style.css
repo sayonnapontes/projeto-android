@@ -42,6 +42,7 @@ padding: 0px;
 body{
     background-color: var(--cor0);
     font-family: var(--fonte-padrao);
+    
 }
 
 a.externo::after {
@@ -109,6 +110,7 @@ main {
     margin: auto;
     background-color: white;
     padding: 20px;
+    border-radius: 10px;
 
 }
 

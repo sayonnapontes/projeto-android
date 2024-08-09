@@ -38,6 +38,11 @@ margin: 0px;
 padding: 0px;
 }
 
+@media (max-width: 1200px) {
+    section {
+        width: 1000px;
+    }
+}
 
 body{
     background-color: var(--cor0);

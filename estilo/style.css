@@ -54,6 +54,8 @@ header {
     min-height: 150px;
     text-align: center;
     padding-top: 40px;
+    border-radius: 10px;
+
 }
 
 header > h1 {
@@ -73,8 +75,10 @@ header > p {
     padding-right: 10px;
     padding-left: 10px;
     margin: auto;
-    padding-bottom: 50px;
+    padding-bottom: 40px;
     text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.315)
+    border-radius: 10px;
+
 }
 
 nav {
